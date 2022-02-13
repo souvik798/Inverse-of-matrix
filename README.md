@@ -37,3 +37,4 @@ print(inverse)
 ![git logo](uy.png)
 
 ## RESULT:
+Thus the program is written to find the matrix.
